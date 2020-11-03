@@ -22,6 +22,7 @@
 		149D0B1A2550A60100B0972B /* data1.json in Resources */ = {isa = PBXBuildFile; fileRef = 149D0B192550A60100B0972B /* data1.json */; };
 		149D0B1F25514D1C00B0972B /* PromoCodeModuleHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149D0B1E25514D1C00B0972B /* PromoCodeModuleHelper.swift */; };
 		149D0B222551528000B0972B /* PromoCodeDetailPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149D0B212551528000B0972B /* PromoCodeDetailPresenter.swift */; };
+		149D0B262551636100B0972B /* Read me in Resources */ = {isa = PBXBuildFile; fileRef = 149D0B252551636100B0972B /* Read me */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		149D0B192550A60100B0972B /* data1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data1.json; sourceTree = "<group>"; };
 		149D0B1E25514D1C00B0972B /* PromoCodeModuleHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromoCodeModuleHelper.swift; sourceTree = "<group>"; };
 		149D0B212551528000B0972B /* PromoCodeDetailPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromoCodeDetailPresenter.swift; sourceTree = "<group>"; };
+		149D0B252551636100B0972B /* Read me */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Read me"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		149D0A7E254EF5CC00B0972B = {
 			isa = PBXGroup;
 			children = (
+				149D0B252551636100B0972B /* Read me */,
 				149D0B192550A60100B0972B /* data1.json */,
 				149D0AD825509E8000B0972B /* data.json */,
 				149D0A89254EF5CD00B0972B /* Slice_Assignment */,
@@ -218,6 +221,7 @@
 				149D0A97254EF5D000B0972B /* LaunchScreen.storyboard in Resources */,
 				149D0AD925509E8000B0972B /* data.json in Resources */,
 				149D0A94254EF5D000B0972B /* Assets.xcassets in Resources */,
+				149D0B262551636100B0972B /* Read me in Resources */,
 				149D0A92254EF5CD00B0972B /* Main.storyboard in Resources */,
 				149D0B1A2550A60100B0972B /* data1.json in Resources */,
 			);
